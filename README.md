@@ -6,6 +6,7 @@
 
 # Renata Pereira Martins Gomes
 <sub>*Geologist* at Petrobras</sub>
+</p>
 <sub>*Graduation student in information systems* at FEMASS, Macaé-RJ</sub>
 
 **Background in:** Python, C.
