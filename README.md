@@ -5,10 +5,11 @@
 </p>
 
 # Renata Pereira Martins Gomes
+</p>
 <sub>*Geologist* at Petrobras</sub>
 </p>
 <sub>*Graduation student in information systems* at FEMASS, Macaé-RJ</sub>
-
+</p>
 **Background in:** Python, C.
 
 **Links:**
